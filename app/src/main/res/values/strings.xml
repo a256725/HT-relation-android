@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Community</string>
+    <string name="main_tab_item0">首页</string>
+    <string name="main_tab_item1">活动</string>
+    <string name="main_tab_item2">社区</string>
+    <string name="main_tab_item3">我的</string>
+</resources>
